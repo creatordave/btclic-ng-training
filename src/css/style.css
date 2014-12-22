@@ -1,0 +1,13 @@
+body{
+  margin:0;
+  padding:0;
+  font:100% normal Helvetica, Arial, sans-serif;
+}
+
+.text-center{
+  text-align:center;
+}
+
+.line-through{
+  text-decoration: line-through !important;
+}
